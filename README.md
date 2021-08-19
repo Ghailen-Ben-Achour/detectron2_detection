@@ -9,4 +9,4 @@ This project aims to perform object detection using detectron2 Faster-RCNN on a 
 ---
 
 ## Dataset
-
+The COCO format of the dataset as well as its labels can be downloaded by running the command below.

@@ -9,7 +9,7 @@ This project aims to perform object detection using detectron2 Faster-RCNN on a 
 ---
 
 ## Dataset
-The dataset can be used as stored in images folder.
+The dataset can be used as stored in ```data/images``` folder.
 - The COCO format of the dataset as well as its labels can be downloaded by running the command below.
 ```bash
 wget https://github.com/Tony607/detectron2_instance_segmentation_demo/releases/download/V0.1/data.zip

@@ -21,4 +21,5 @@ unzip data.zip
 ```
 ---
 #### Train & Evaluate
+The model used in training is detectron's two implementation of ```faster RCNN```.
 

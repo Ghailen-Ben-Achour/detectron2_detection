@@ -19,3 +19,6 @@ wget https://github.com/Tony607/detectron2_instance_segmentation_demo/releases/d
 ```bash
 unzip data.zip
 ```
+---
+#### Train & Evaluate
+

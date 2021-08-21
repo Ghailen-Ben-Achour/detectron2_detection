@@ -21,5 +21,5 @@ unzip data.zip
 ```
 ---
 #### Train & Evaluate
-The model used in training is detectron's two implementation of ```faster RCNN```.
+The model used in training is detectron's two implementation of ```faster RCNN```. Since we are only interested in object detection, we extract only the bounding box labels for each object (pixel wise annotation is not used).
 

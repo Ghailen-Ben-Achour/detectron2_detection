@@ -26,10 +26,10 @@ The model used in training is detectron's two implementation of ```faster RCNN``
 To train a model you can run ```fruits_detection.ipynb```.
 
 You can change the hyperparameters used in this project.
+
 cfg.SOLVER.IMS_PER_BATCH = 2
 cfg.SOLVER.BASE_LR = 0.00025 
 cfg.SOLVER.MAX_ITER = 300 
 cfg.TEST.EVAL_PERIOD = 100
-cfg.SOLVER.STEPS = []
 cfg.MODEL.ROI_HEADS.BATCH_SIZE_PER_IMAGE = 4
 

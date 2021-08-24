@@ -36,5 +36,5 @@ cfg.MODEL.ROI_HEADS.BATCH_SIZE_PER_IMAGE = 4
 ---
 ## Results
 
-Results are stored inside ```output``` folder.
+Results are stored inside ```output``` folder. To visualize them, run the commands below in a seperate code block:
 

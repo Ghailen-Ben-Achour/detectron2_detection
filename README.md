@@ -41,4 +41,4 @@ Results are stored inside ```output``` folder. To visualize them, run the comman
 %load_ext tensorboard
 %tensorboard --logdir output/
 ```
-
+![Project Image](https://github.com/Ghailen-Ben-Achour/detectron2_detection/blob/main/results/AP.png)
